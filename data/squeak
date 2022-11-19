@@ -1,0 +1,23 @@
+[
+  {
+    "Sender": "Pam",
+    "Receiver": "Jim",
+    "Message": "Hello"
+  },
+  {},
+  {
+    "Sender": "Michael",
+    "Receiver": "Pam",
+    "Message": "Hi pam , its mic"
+  },
+  {
+    "Sender": "Michael",
+    "Receiver": "Michael",
+    "Message": "hi Mic , its Mic"
+  },
+  {
+    "Sender": "Michael",
+    "Receiver": "@everyone",
+    "Message": "hi everyone, i am mic"
+  }
+]
